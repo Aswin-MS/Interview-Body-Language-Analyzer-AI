@@ -1,1 +1,1 @@
-# AI-Based-Interview-Body-Language-Analyzer-using-MediaPipe
+# Interview-Body-Language-Analyzer-AI
